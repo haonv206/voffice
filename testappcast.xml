@@ -6,13 +6,8 @@
             <title>Version 1.1.1</title>
             <description>Thay đổi phương thức xác thực tài khoản</description>
             <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.1.2" sparkle:os="android" sparkle:criticalUpdate="true"/>
-        </item>
-        <item>
-            <title>Version 1.1.1</title>
-            <description>Thay đổi phương thức xác thực tài khoản</description>
-            <pubDate>Thu, 04 May 2023 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.1.3" sparkle:os="android"/>
+            <sparkle:criticalUpdate></sparkle:criticalUpdate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.1.2" sparkle:os="android"/>
         </item>
     </channel>
 </rss>
