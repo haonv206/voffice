@@ -3,7 +3,7 @@
     <channel>
         <title>VOffice Appcast</title>
         <item>
-            <title>Version 1.1.1</title>
+            <title>Version 1.1.0</title>
             <description>Thay đổi phương thức xác thực tài khoản</description>
             <pubDate>Thu, 04 May 2023 18:00:00 +0007</pubDate>
             <enclosure url="https://raw.githubusercontent.com/haonv206/voffice/main/app-release.apk" sparkle:version="1.1.0" sparkle:os="android"/>
